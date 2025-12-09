@@ -7,7 +7,7 @@ on:
   push:
     branches: [ "main" ]
   pull_request:
-    branches: [ "Project repo/ITMD_411_Lab3_AA" ]
+    branches: [ "Project repo/ITMD_411_Lab4_AA" ]
 
 jobs:
   build:
